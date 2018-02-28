@@ -10,8 +10,8 @@ h1 {
     background-image: url(../img/sobre-background.jpg)
 }
 h2 {
-    margin-top: 30px
-    border-bottom: 2px solid #333333;
+    margin-top: 30px;
+    border-bottom: 2px solid #333333;   
 }
 figure {
     padding: 15px;
@@ -21,7 +21,7 @@ figure {
     text-align: center;
 }
 figcaption {
-    font-styel: italic;
+    font-style: italic;
 }
 p {
     margin-top: 10px;
